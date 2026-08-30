@@ -1,4 +1,3 @@
-*This activity has been created as part of the 42 curriculum by syasin.*
 # Get Next Line
 
 This project implements the `get_next_line` function in C.  
